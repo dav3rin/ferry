@@ -15,7 +15,7 @@ dependencies:
   gql_code_builder:
     git:
       ref: repro_reuse_fragments
-      url: https://github.com/gql-dart/gql.git
+      url: https://github.com/dav3rin/gql.git
       path: codegen/gql_code_builder
   gql_code_builder_serializers: ^0.1.0
   gql_tristate_value: ^1.0.0
